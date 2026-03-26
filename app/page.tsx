@@ -360,20 +360,21 @@ export default function Page() {
                         <div class="owl-carousel owl-theme owl-3-dots wow mask-right">
                             <div class="item">
                                 <div class="d-ticket">
-                                    <img src="/images/logo.png" class="w-80px mb-4" alt="">
-                                    <img src="/images/misc/barcode.webp" class="w-20 p-2 abs abs-middle end-0 me-2" alt="">
-                                    <h2>Starter</h2>
-                                    <h4 class="mb-4">$2,999/mo</h4>
-                                    <div class="fs-14">For Small Businesses</div>
+                                    <img src="/images/logo.png" class="w-80px mb-4" alt="">       
+                                    <h2>Basic</h2>
+                                    <h4 class="mb-4">$299/mo</h4>
+                                    <div class="fs-14">Essential security foundation for new & small businesses</div>
                                 </div>
 
                                 <div class="relative overflow-hidden">
                                     <div class="py-4 z-2">
                                         <ul class="ul-check mb-4">
-                                            <li>Basic threat monitoring and alerts</li>
-                                            <li>Monthly security assessments</li>
-                                            <li>Incident response support</li>
-                                            <li>Email-based support</li>
+                                            <li>Firewall Setup & Configuration</li>
+                                            <li>Endpoint Protection Setup (up to 15 devices)</li>
+                                            <li>Vulnerability Assessment (Monthly Scan)</li>
+                                            <li>Monthly Security Audit Report</li>
+                                            <li>Security Awareness Training (1 session/qtr)</li>
+                                            <li>Email Support — 5×8 Business Hours</li>
                                         </ul>
                                     </div>
 
@@ -384,18 +385,20 @@ export default function Page() {
                             <div class="item">
                                 <div class="d-ticket">
                                     <img src="/images/logo.png" class="w-80px mb-4" alt="">
-                                    <img src="/images/misc/barcode.webp" class="w-20 p-2 abs abs-middle end-0 me-2" alt="">
                                     <h2>Professional</h2>
-                                    <h4 class="mb-4">$7,999/mo</h4>
-                                    <div class="fs-14">For Mid-Size Enterprises</div>
+                                    <h4 class="mb-4">$699/mo</h4>
+                                    <div class="fs-14">Proactive defence with testing & hands-on consulting</div>
                                 </div>
                                 <div class="relative">
                                     <div class="py-4 z-2">
                                         <ul class="ul-check mb-4">
-                                            <li>All Starter features</li>
-                                            <li>24/7 SOC monitoring</li>
-                                            <li>Quarterly penetration testing</li>
-                                            <li>Priority phone support</li>
+                                            <li>Everything in Basic Guard</li>
+                                            <li>Basic Penetration Testing (Bi-Annual)</li>
+                                            <li>Phishing Simulation Campaigns (Quarterly)</li>
+                                            <li>Detailed Vulnerability Remediation Plan</li>
+                                            <li>Security Awareness Training (Monthly)</li>
+                                            <li>1-on-1 Security Consulting (2 hrs/mo)</li>
+                                            <li>Priority Email & Chat Support — 5×8</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -406,18 +409,20 @@ export default function Page() {
                             <div class="item">
                                 <div class="d-ticket s2">
                                     <img src="/images/logo.png" class="w-80px mb-4" alt="">
-                                    <img src="/images/misc/barcode.webp" class="w-20 p-2 abs abs-middle end-0 me-2" alt="">
-                                    <h2>Enterprise</h2>
-                                    <h4 class="mb-4">Custom</h4>
-                                    <div class="fs-14">For Large Organizations</div>
+                                    <h2>Advisory Pro</h2>
+                                    <h4 class="mb-4">$1,199/mo</h4>
+                                    <div class="fs-14">Full advisory engagement with deeper testing & strategy</div>
                                 </div>
                                 <div class="relative">
                                     <div class="py-4 z-2">
                                         <ul class="ul-check mb-4">
-                                            <li>All Professional features</li>
-                                            <li>Dedicated security team</li>
-                                            <li>Custom compliance packages</li>
-                                            <li>24/7 executive hotline</li>
+                                            <li>Everything in Professional Shield</li>
+                                            <li>Quarterly Security Strategy Roadmap</li>
+                                            <li>Firewall Rule Review & Hardening</li>
+                                            <li>Phishing Simulation + Staff Debrief</li>
+                                            <li>Compliance Guidance (ISO 27001 / GDPR basics)</li>
+                                            <li>Dedicated Point-of-Contact Consultant</li>
+                                            <li>Priority Support — 5×10 + Emergency Line</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -441,15 +446,7 @@ export default function Page() {
             </div>
 
             <div class="row g-4">
-                <div class="col-sm-6">
-                    <img src="/images/misc/l1.webp" class="w-100 rounded-1 wow scale-in-mask" alt="">
-                </div>
 
-                <div class="col-sm-6">
-                    <img src="/images/misc/l2.webp" class="w-100 rounded-1 wow scale-in-mask" alt="">
-                </div>
-
-                <div class="clearfix"></div>
 
                 <div class="col-lg-4 col-md-6 mb-sm-30">
                     <div class="d-flex justify-content-center wow fadeInUp" data-wow-delay=".2s">
